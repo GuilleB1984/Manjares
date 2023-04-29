@@ -3,7 +3,7 @@
     /*box-sizing: border-box;*/
 }
 html{
-    
+    background-color: bisque;
     
 }
 
@@ -15,6 +15,7 @@ body, header
     justify-content:space-around;
     margin: 0.5rem;
     width: 90%;
+    border: 1px solid red;
 }
 body {
     color: rgb(1, 43, 46);
